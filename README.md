@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Ümmü Gülsüm
 #### I am student in İnformation Systems Engineer
-([link](https://www.canva.com/design/DAFIFbtnoh0/vVL5eDDdPIiegQwqiVx04Q/view))
+
+![Screenshot](kapak.jpg)
 I'm just at the beginning of my journey and I'm aware of that. I am interested in the field of cyber security. I have a variety of leadership and business experience. I love to travel and explore.
 
 💻 PYTHON / HTML / CSS 💻
