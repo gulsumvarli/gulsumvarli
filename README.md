@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ümmü Gülsüm
 #### I am student in İnformation Systems Engineer
-![git.jpg](https://github.com/gulsumvarli/gulsumvarli/commit/1a9e99639288aa9f5ae661c04d99f330f00e0011)
+([link](https://www.canva.com/design/DAFIFbtnoh0/vVL5eDDdPIiegQwqiVx04Q/view))
 I'm just at the beginning of my journey and I'm aware of that. I am interested in the field of cyber security. I have a variety of leadership and business experience. I love to travel and explore.
 
 Skills: PYTHON / HTML / CSS 
