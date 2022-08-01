@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<!--
 ### Hi there 👋, my name is Ümmü Gülsüm
 #### I am student in İnformation Systems Engineer
 I'm just at the beginning of my journey and I'm aware of that. I am interested in the field of cyber security. I have a variety of leadership and business experience. I love to travel and explore.
