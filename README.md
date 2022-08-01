@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ümmü Gülsüm
 #### I am student in İnformation Systems Engineer
-[(![C:\Users\ummug\Desktop](/images/git.jpg))]
+https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png
 I'm just at the beginning of my journey and I'm aware of that. I am interested in the field of cyber security. I have a variety of leadership and business experience. I love to travel and explore.
 
 Skills: PYTHON / HTML / CSS 
