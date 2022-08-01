@@ -2,7 +2,8 @@
 #### I am student in İnformation Systems Engineer
 
 ![Screenshot](kapak.jpg)
-I'm just at the beginning of my journey and I'm aware of that. I am interested in the field of cyber security. I have a variety of leadership and business experience. I love to travel and explore.
+
+*I'm just at the beginning of my journey and I'm aware of that. I am interested in the field of cyber security. I have a variety of leadership and business experience. I love to travel and explore.*
 
 💻 PYTHON / HTML / CSS 💻
 
@@ -10,7 +11,7 @@ I'm just at the beginning of my journey and I'm aware of that. I am interested i
 - 🌱 I’m currently learning Deep Learning,  Cyber Security Analyst, Machine Learning, Python, Java 
 - 👯 I’m looking to collaborate on IBM, Microsoft 
 - 🤔 I’m looking for help with i want to be a cyber security analyst i need help for this 
-- 📫 How to reach me: You can reach us from the links I have given you to reach, we can try to solve problems anywhere, anytime. 
+- 📫 How to reach me: You can reach me from the links I have given you to reach, we can try to solve problems anywhere, anytime. 
 - 😄 Pronouns: Dancing, Musics, Travel, Explore, My life, Movies, Books 
 
 
