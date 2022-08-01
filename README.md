@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on IBM, Microsoft 
 - 🤔 I’m looking for help with i want to be a cyber security analyst i need help for this 
 - 📫 How to reach me: You can reach me from the links I have given you to reach, we can try to solve problems anywhere, anytime. 
-- 😄 Pronouns: Dancing, Musics, Travel, Explore, My life, Movies, Books 
+- 😄 Pronouns: Dancing, Musics, Travel, Explore, My life, Movies, Books, 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gulsumvarli)
